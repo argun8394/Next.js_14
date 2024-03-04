@@ -5,14 +5,14 @@ const SinglePostPage = () => {
   return (
     <div className={styles.container}>
       <div className={styles.imgContainer}>
-        <Image src="/post.png" alt="" fill className={styles.img} />
+        <Image src="/post.jpg" alt="" fill className={styles.img} />
       </div>
       <div className={styles.textContainer}>
         <h1 className={styles.title}>Title</h1>
         <div className={styles.detail}>
           <Image
             className={styles.avatar}
-            src="/post.png"
+            src="/post.jpg"
             alt=""
             width={50}
             height={50}
