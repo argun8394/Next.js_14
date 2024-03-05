@@ -1,5 +1,8 @@
-## Getting Started
-
+# Next.js_14 Project
+* live link of the project ( https://next-js-14-flax.vercel.app/ )
+  
+* Next.js 14
+  
 First, install the dependencies:
 
 ```bash
