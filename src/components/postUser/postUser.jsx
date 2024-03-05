@@ -4,7 +4,7 @@ const getData = async (userId) => {
   const res = await fetch(
     `https://jsonplaceholder.typicode.com/users/${userId}`,
     {
-      cache: "force-cache",
+      cache: "no-store",
     }
   );
 
